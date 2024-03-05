@@ -1,0 +1,56 @@
+Apache License 2.0 Rider
+
+
+This Rider ("Rider") modifies the terms of the Apache License, Version 2.0 (the
+"License") for the limited purposes described below. This Rider applies to the
+source code for the Elastic Universal Profiling Agent (the "Software"). This
+Rider is subject to, and hereby incorporated into, the Apache License Version
+2.0 ("Apache License").   Capitalized terms not defined in this Rider shall have
+the meanings set forth in the Apache License.
+
+
+1. Limited License Grant
+
+
+The License granted to use the Software is strictly limited to members of the
+OpenTelemetry Project ("Reviewers") solely for the purposes of evaluation of the
+Software for adoption into an OpenTelemetry standard. Reviewers review and
+access the Software solely as individuals on behalf of OpenTelemetry. Reviewers'
+respective companies or organizations are not involved in the review. Reviewers
+may not use the Software for any other purpose, personal or commercial. 
+
+
+2. Restrictions
+
+
+Reviewers shall not: (a) distribute, sell, or otherwise transfer the Software to
+any third party; (b) provide the Software to third parties as a hosted or
+managed service; (c) remove or alter any copyright, trademark, or other
+proprietary notices contained in the Software; or (d) use the Software for any
+purpose other than as expressly permitted under the Apache License as modified
+in this Rider.  This license is granted only to the Reviewers and no third party
+is granted any license rights hereto. 
+
+
+3. No Notice or Knowledge
+
+
+Review of the Software by any Reviewer does not constitute "notice" or
+"knowledge" for the Reviewer, the Reviewer's respective company or organization,
+or for OpenTelemetry regarding any patent owned by Elastic.
+
+4. Limited Time Period
+
+
+The License, as modified by this Rider, is valid only until the earlier of: a)
+sixty (60) calendar days from the receipt of the Software, or b) upon completion
+of the Reviewer's evaluation of the Software. After this period, all rights to
+use the Software under the License and this Rider shall terminate and Reviewers
+shall promptly return or destroy all copies of the Software in their possession
+or control.
+
+
+
+By accessing or using the Software, any Reviewer consents to the terms and
+conditions outlined in this Rider. If any conflict between terms of the License
+and this Rider arise, the terms of this Rider control.
