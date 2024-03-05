@@ -1,3 +1,6 @@
+
+> [!NOTE]
+> This README is extracted from the profiling-agent-otel private repository. As a result, some links in this document may not resolve for you if you do not have access to the code.
 # Introduction
 
 This repository contains the architectural overview of the profiling host agent,
