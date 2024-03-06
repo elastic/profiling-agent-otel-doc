@@ -28,7 +28,7 @@ The profiling agent code can be found [here](https://github.com/elastic/profilin
 
 ## Licenses of dependencies
 
-At the time of writing this, the summary of the dependecies' licenses is
+At the time of writing this, the summary of the dependencies' licenses is
 ```
   Count License
      52 Apache-2.0
