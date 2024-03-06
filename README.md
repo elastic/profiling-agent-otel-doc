@@ -1,3 +1,14 @@
+> [!NOTE]
+> This README is extracted from the [profiling-agent-otel private repository](https://github.com/elastic/profiling-agent-otel). As a result, some links in this document may not resolve for you if you do not have access to the code.
+	
+> [!NOTE]
+> The [profiling-agent-otel private repository](https://github.com/elastic/profiling-agent-otel) is licensed under the [Apache License 2.0](LICENSE) (Apache-2.0), with specific terms modified and/or supplemented by an additional licensing rider. The rider introduces adjustments to the standard Apache 2.0 License terms to better suit the unique needs and constraints of the project.
+
+
+# Licensing Information
+
+All files in this repository are licensed under the [Apache 2.0 license](LICENSE).
+
 # Introduction
 
 This repository contains the architectural overview of the profiling host agent,
@@ -12,48 +23,20 @@ monitors those maps for new traces and trace count updates.
 
 The profiling agent code can be found [here](https://github.com/elastic/profiling-agent-otel).
 
-Some links in this document point to the profiling agent code repository. It depends on your access
-restriction whether they can be followed or not.
 
-# Legal 
+# The Profiling Agent
 
-## Licensing Information for this repository
+## Licenses of dependencies
 
-All files in this repository are licensed under the [Apache 2.0 license](LICENSE).
-
-## Licensing Information for the `profiling-agent-otel` repository
-
-This project is licensed under the Apache License 2.0 (Apache-2.0), with specific terms modified and/or supplemented by an additional licensing rider. The rider introduces adjustments to the standard Apache 2.0 License terms to better suit the unique needs and constraints of this project.
-
-## Accessing the License Documents
-
-For full details of the licensing terms, including the modifications and supplements introduced by the rider, please consult the following documents:
-
-- [Apache License 2.0](LICENSE)
-- [License Rider](LICENSE-RIDER)
-
-
-## Licenses of dependencies of the profiling agent
-
-To display a summary of the dependencies' licenses:
-```sh
-make legal
-```
-
-Details can be found in the generated `deps.profiling-agent.csv` file.
-
-At the time of writing this, the summary is
+At the time of writing this, the summary of the dependecies' licenses is
 ```
   Count License
      52 Apache-2.0
-      3 BSD-2-Clause
      17 BSD-3-Clause
-      1 ISC
      17 MIT
+      3 BSD-2-Clause
+      1 ISC
 ```
-
-
-# The Profiling Agent
 
 ## Building
 
