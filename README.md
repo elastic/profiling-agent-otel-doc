@@ -1,8 +1,14 @@
 > [!NOTE]
-> This README is extracted from the [profiling-agent-otel private repository](https://github.com/elastic/profiling-agent-otel). As a result, some links in this document may not resolve for you if you do not have access to the code.
-	
-> [!NOTE]
-> The [profiling-agent-otel private repository](https://github.com/elastic/profiling-agent-otel) is licensed under the [Apache License 2.0](LICENSE) (Apache-2.0), with specific terms modified and/or supplemented by an additional licensing rider. The rider introduces adjustments to the standard Apache 2.0 License terms to better suit the unique needs and constraints of the project.
+> The profiling agent repository has been open sourced and been moved to the CNCF OpenTelemetry organization: [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler). The following text is outdated here, but is up-to-date in the aforementioned OpenTelemetry repository. This repository is going to be deleted soon.
+
+
+
+
+
+
+
+
+
 
 
 # Licensing Information
